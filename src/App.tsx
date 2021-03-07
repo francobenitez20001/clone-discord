@@ -1,11 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
+import Layout from './components/Layout';
 import GlobalStyles from './styles/GlobalStyles';
 
 function App() {
   return (
     <>
-      <h1>Bienvenidos</h1>
+      <Layout/>
       <GlobalStyles/>
     </>
   );
