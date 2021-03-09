@@ -37,7 +37,7 @@ export const HashtagIcon = styled(Hashtag)`
   height:16px;
   font-weight:400;
   color:var(--symbol);
-  margin-left:4px;
+  margin-right:4px;
   transition: color 0.2s;
   &:hover {
     color: var(--white);
